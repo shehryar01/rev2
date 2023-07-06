@@ -5,4 +5,8 @@
 2
 3
 4
+<<<<<<< HEAD
 >>>>>>> 188f60c (Update somefile.txt)
+=======
+5
+>>>>>>> 9dfde74 (Update somefile.txt)
